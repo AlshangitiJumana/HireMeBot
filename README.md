@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🤖 Q&A Interview Assistant (LLM Fine-Tuning Project)
 
 This project fine-tunes a GPT-2 language model for generating ideal answers to technical and behavioral interview questions so that freshly-graduated AI students can practice using it. 
@@ -35,11 +35,16 @@ Deploy the model by running `Chatbot.ipynb`
 ---
 
 
+## 👩‍💻 Contributors
 
-## 🧠 Author
+This project was developed by senior AI students at Imam Abdulrahman Bin Faisal University (IAU):
 
-Made with ❤️ by Reem, Jumanah, Maryam, Raghad and Lama — Senior AI Students at IAU :)
-=======
-# HireMeBot
-this repository for fine tuning GPT-2 to answer interviews Questions 
->>>>>>> 65395cbacc618c64ef3696172466612fd3eee114
+- **Reem**
+- **Jumanah**
+- **Maryam**
+- **Raghad**
+- **Lama**
+
+We welcome feedback and contributions. If you're interested in collaborating or have suggestions, feel free to open an issue or contact us via GitHub.
+
+---
